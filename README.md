@@ -74,7 +74,7 @@ App nativo publicado na **Google Play**, extensão de campo do sistema desktop, 
 
 ### 🚀 Projetos em destaque — publicados oficialmente
 
-Meus dois principais sistemas estão **publicados e disponíveis ao público** nas lojas oficiais Android e Windows, algo raro para um projeto desenvolvido e mantido por uma única pessoa.
+Meus dois principais sistemas estão **publicados e disponíveis ao público** nas lojas oficiais Android e Windows.
 
 <table>
 <tr>
