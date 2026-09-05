@@ -88,11 +88,20 @@ Meus dois principais sistemas estão **publicados e disponíveis ao público** n
 
 <br/><br/>
 
+<table>
+<tr>
+<td align="center" valign="middle">
 <a href="https://play.google.com/store/apps/details?id=com.gleniorayone.guardacivil&hl=pt_BR">
-  <img src="https://play-lh.googleusercontent.com/XH49i-_-uMyN2N0rnm_RAjzyhh9WXIbFzVAbvNdi0NliCMGYyvVUy8_-lvqfBdfSGRyIlz3kAOKd9e4id2ylkA=w200-h200" height="36" alt="Ícone do app Android" />
-  &nbsp;—&nbsp;
-  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/pt-br_badge_web_generic.png" height="50" alt="Disponível no Google Play" />
+<img src="https://play-lh.googleusercontent.com/XH49i-_-uMyN2N0rnm_RAjzyhh9WXIbFzVAbvNdi0NliCMGYyvVUy8_-lvqfBdfSGRyIlz3kAOKd9e4id2ylkA=w200-h200" height="40" alt="Ícone do app Android" />
 </a>
+</td>
+<td align="center" valign="middle">
+<a href="https://play.google.com/store/apps/details?id=com.gleniorayone.guardacivil&hl=pt_BR">
+<img src="https://play.google.com/intl/en_us/badges/static/images/badges/pt-br_badge_web_generic.png" height="50" alt="Disponível no Google Play" />
+</a>
+</td>
+</tr>
+</table>
 
 *App nativo com sincronização em tempo real, publicado sob o desenvolvedor `syseng.corporation`*
 
@@ -107,11 +116,20 @@ Meus dois principais sistemas estão **publicados e disponíveis ao público** n
 
 <br/><br/>
 
+<table>
+<tr>
+<td align="center" valign="middle">
 <a href="https://apps.microsoft.com/detail/9mv3ccwbk8zn?hl=pt-BR&gl=BR">
-  <img src="assets/icon_desktop_gcc.jpeg" height="36" alt="Ícone do sistema desktop" />
-  &nbsp;—&nbsp;
-  <img src="https://get.microsoft.com/images/pt-br%20dark.svg" height="50" alt="Disponível na Microsoft Store" />
+<img src="assets/icon_desktop_gcc.jpeg" height="40" alt="Ícone do sistema desktop" />
 </a>
+</td>
+<td align="center" valign="middle">
+<a href="https://apps.microsoft.com/detail/9mv3ccwbk8zn?hl=pt-BR&gl=BR">
+<img src="https://get.microsoft.com/images/pt-br%20dark.svg" height="50" alt="Disponível na Microsoft Store" />
+</a>
+</td>
+</tr>
+</table>
 
 *Sistema completo de gestão operacional e administrativa, distribuído oficialmente via Microsoft Store*
 
