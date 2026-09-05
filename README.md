@@ -83,7 +83,8 @@ Meus dois principais sistemas estão **publicados e disponíveis ao público** n
 **📱 Guarda Civil Contagem — Android**
 
 <a href="https://play.google.com/store/apps/details?id=com.gleniorayone.guardacivil&hl=pt_BR">
-  <img src="assets/android_cartaz.png" width="260" alt="Cartaz do app Android" />
+  <img src="https://play-lh.googleusercontent.com/XH49i-_-uMyN2N0rnm_RAjzyhh9WXIbFzVAbvNdi0NliCMGYyvVUy8_-lvqfBdfSGRyIlz3kAOKd9e4id2ylkA=w200-h200" width="80" alt="Ícone do app Android" /><br/><br/>
+  <img src="assets/android_cartaz.png" height="320" alt="Tela do app Android" />
 </a>
 
 <br/><br/>
@@ -100,8 +101,8 @@ Meus dois principais sistemas estão **publicados e disponíveis ao público** n
 **🖥️ Guarda Civil de Contagem — Windows**
 
 <a href="https://apps.microsoft.com/detail/9mv3ccwbk8zn?hl=pt-BR&gl=BR">
-  <img src="assets/icon_desktop_gcc.jpeg" width="90" alt="Ícone do sistema desktop" /><br/>
-  <img src="assets/desktop.png" width="260" alt="Captura de tela do sistema desktop" />
+  <img src="assets/icon_desktop_gcc.jpeg" width="80" alt="Ícone do sistema desktop" /><br/><br/>
+  <img src="assets/desktop.png" height="320" alt="Tela do sistema desktop" />
 </a>
 
 <br/><br/>
