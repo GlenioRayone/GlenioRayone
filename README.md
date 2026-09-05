@@ -5,7 +5,23 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack+Autodidata;C%23+%7C+WPF+%7C+Android+%7C+Node.js;Construindo+solu%C3%A7%C3%B5es+reais+para+a+Guarda+Civil" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack+Autodidata;C%23+%7C+WPF+%7C+Android+%7C+Node.js;Publicado+na+Google+Play+e+Microsoft+Store" alt="Typing SVG" />
+</p>
+
+---
+
+### 🧰 Tecnologias que utilizo
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/WPF-0C54C2?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ---
@@ -14,7 +30,7 @@
 
 Sou **Guarda Civil Municipal em Contagem/MG desde 2013** e **Engenheiro Civil** formado em 2019. De forma autodidata, me tornei desenvolvedor fullstack e hoje sou responsável por **projetar, desenvolver e manter todo o ecossistema de tecnologia** utilizado pela minha corporação — do aplicativo de campo ao banco de dados que sustenta a operação diária.
 
-Queria desenvolver um sistema para ajudar estudantes e recem formados em engenharia civil além de pedreiros e mestre de obras, a ter um sistema simples e útil entregando cálculos e resultados de pequenas edificações de forma simples, oque me levou a conhecer os principio de programação e desenvolvimento de softwares, juntando essa necessidade de conhecimento em desenvolvimento e na Guarda Civil que começou como uma necessidade prática — digitalizar processos internos da Guarda Civil — se tornou um sistema completo, multiplataforma, em produção e usado diariamente por dezenas de agentes e gestores.
+Queria desenvolver um sistema para ajudar estudantes e recém-formados em Engenharia Civil, além de pedreiros e mestres de obras, a ter uma ferramenta simples e útil, entregando cálculos e resultados de pequenas edificações de forma prática. Foi isso que me levou a conhecer os princípios de programação e desenvolvimento de software. Juntando essa necessidade de aprendizado com a realidade da Guarda Civil — que começou como uma necessidade prática de digitalizar processos internos — o projeto se tornou um sistema completo, multiplataforma, em produção e usado diariamente por dezenas de agentes e gestores.
 
 - 🛠️ Atuo em **todas as camadas**: aplicativo desktop, aplicativo mobile, API e banco de dados
 - 🚓 Meus sistemas cobrem desde controle de escalas e ocorrências disciplinares até banco de horas, patrimônio e comunicação interna
@@ -56,6 +72,52 @@ App nativo publicado na **Google Play**, extensão de campo do sistema desktop, 
 
 ---
 
+### 🚀 Projetos em destaque — publicados oficialmente
+
+Meus dois principais sistemas estão **publicados e disponíveis ao público** nas lojas oficiais Android e Windows, algo raro para um projeto desenvolvido e mantido por uma única pessoa.
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+**📱 Guarda Civil Contagem — Android**
+
+<a href="https://play.google.com/store/apps/details?id=com.gleniorayone.guardacivil&hl=pt_BR">
+  <img src="https://play-lh.googleusercontent.com/XH49i-_-uMyN2N0rnm_RAjzyhh9WXIbFzVAbvNdi0NliCMGYyvVUy8_-lvqfBdfSGRyIlz3kAOKd9e4id2ylkA=w200-h200" width="90" alt="Ícone do app Android" /><br/>
+  <img src="https://play-lh.googleusercontent.com/oQ5zD5KFtQbzHYU7V5d0osNrQYe_ULqpxLv1e8dA_yjH7oXY_JD5VwOnfvIemGoKenaKnoa5zrg8yR-3V03g=w526-h296" width="260" alt="Captura de tela do app" />
+</a>
+
+<br/><br/>
+
+<a href="https://play.google.com/store/apps/details?id=com.gleniorayone.guardacivil&hl=pt_BR">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/pt-br_badge_web_generic.png" height="55" alt="Disponível no Google Play" />
+</a>
+
+*App nativo com sincronização em tempo real, publicado sob o desenvolvedor `syseng.corporation`*
+
+</td>
+<td width="50%" valign="top" align="center">
+
+**🖥️ Guarda Civil de Contagem — Windows**
+
+<a href="https://apps.microsoft.com/detail/9mv3ccwbk8zn?hl=pt-BR&gl=BR">
+  <img src="https://store-images.s-microsoft.com/image/apps.25363.13800944033309045.ede4ef19-15df-4923-90a1-01d44cde53f5.66cfa4ea-53bf-4340-92ef-887fe7367b18" width="90" alt="Ícone do app Windows" />
+</a>
+
+<br/><br/>
+
+<a href="https://apps.microsoft.com/detail/9mv3ccwbk8zn?hl=pt-BR&gl=BR">
+  <img src="https://get.microsoft.com/images/pt-br%20dark.svg" height="55" alt="Disponível na Microsoft Store" />
+</a>
+
+*Sistema completo de gestão operacional e administrativa, distribuído oficialmente via Microsoft Store*
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
@@ -65,32 +127,6 @@ App nativo publicado na **Google Play**, extensão de campo do sistema desktop, 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GlenioRayone&theme=dark&hide_border=true" />
-</p>
-
----
-
-### 🧰 Tecnologias que utilizo
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/WPF-0C54C2?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
----
-
-### 📌 Projeto em destaque
-
-<p align="center">
-  <a href="https://github.com/GlenioRayone/variavel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GlenioRayone&repo=variavel&theme=dark&hide_border=true" />
-  </a>
 </p>
 
 ---
