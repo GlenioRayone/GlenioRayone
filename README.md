@@ -83,14 +83,15 @@ Meus dois principais sistemas estão **publicados e disponíveis ao público** n
 **📱 Guarda Civil Contagem — Android**
 
 <a href="https://play.google.com/store/apps/details?id=com.gleniorayone.guardacivil&hl=pt_BR">
-  <img src="https://play-lh.googleusercontent.com/XH49i-_-uMyN2N0rnm_RAjzyhh9WXIbFzVAbvNdi0NliCMGYyvVUy8_-lvqfBdfSGRyIlz3kAOKd9e4id2ylkA=w200-h200" width="80" alt="Ícone do app Android" /><br/><br/>
-  <img src="assets/android_cartaz.png" height="320" alt="Tela do app Android" />
+  <img src="assets/android_cartaz.png" height="450" alt="Tela do app Android" />
 </a>
 
 <br/><br/>
 
 <a href="https://play.google.com/store/apps/details?id=com.gleniorayone.guardacivil&hl=pt_BR">
-  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/pt-br_badge_web_generic.png" height="55" alt="Disponível no Google Play" />
+  <img src="https://play-lh.googleusercontent.com/XH49i-_-uMyN2N0rnm_RAjzyhh9WXIbFzVAbvNdi0NliCMGYyvVUy8_-lvqfBdfSGRyIlz3kAOKd9e4id2ylkA=w200-h200" height="36" alt="Ícone do app Android" />
+  &nbsp;—&nbsp;
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/pt-br_badge_web_generic.png" height="50" alt="Disponível no Google Play" />
 </a>
 
 *App nativo com sincronização em tempo real, publicado sob o desenvolvedor `syseng.corporation`*
@@ -101,14 +102,15 @@ Meus dois principais sistemas estão **publicados e disponíveis ao público** n
 **🖥️ Guarda Civil de Contagem — Windows**
 
 <a href="https://apps.microsoft.com/detail/9mv3ccwbk8zn?hl=pt-BR&gl=BR">
-  <img src="assets/icon_desktop_gcc.jpeg" width="80" alt="Ícone do sistema desktop" /><br/><br/>
-  <img src="assets/desktop.png" height="320" alt="Tela do sistema desktop" />
+  <img src="assets/desktop.png" height="280" alt="Tela do sistema desktop" />
 </a>
 
 <br/><br/>
 
 <a href="https://apps.microsoft.com/detail/9mv3ccwbk8zn?hl=pt-BR&gl=BR">
-  <img src="https://get.microsoft.com/images/pt-br%20dark.svg" height="55" alt="Disponível na Microsoft Store" />
+  <img src="assets/icon_desktop_gcc.jpeg" height="36" alt="Ícone do sistema desktop" />
+  &nbsp;—&nbsp;
+  <img src="https://get.microsoft.com/images/pt-br%20dark.svg" height="50" alt="Disponível na Microsoft Store" />
 </a>
 
 *Sistema completo de gestão operacional e administrativa, distribuído oficialmente via Microsoft Store*
